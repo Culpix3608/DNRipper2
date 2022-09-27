@@ -9,3 +9,6 @@
  2. pip install -r requirements.txt
  3. python DNRipper.py
  
+ ![image](https://user-images.githubusercontent.com/95602665/192603352-2712480e-89a8-4a10-b2fe-d765b9c41283.png)
+
+ 
